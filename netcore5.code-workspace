@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "netcore5-webapi"
+			"path": "netcore5/netcore5-core"
 		},
 		{
-			"path": "netcore5-core"
+			"path": "netcore5/netcore5-webapi"
 		}
 	],
 	"settings": {}
